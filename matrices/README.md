@@ -16,7 +16,7 @@ Este programa fue desarrollado como tarea de la asignatura Programación I
 
 2. Entra a la carpeta del proyecto:
 
-        cd matrices
+         matrices
 
 No es necesario instalar dependencias adicionales.
 
